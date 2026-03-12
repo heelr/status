@@ -1,42 +1,42 @@
 [
   {
     "name": "Heelr App",
-    "url": "https://heelr.app",
-    "icon": "https://icons.duckduckgo.com/ip3/heelr.app.ico",
+    "url": "https://app.heelr.app",
+    "icon": "https://icons.duckduckgo.com/ip3/app.heelr.app.ico",
     "slug": "heelr-app",
-    "status": "down",
-    "uptime": "7.75%",
-    "uptimeDay": "7.75%",
-    "uptimeWeek": "7.75%",
-    "uptimeMonth": "7.75%",
-    "uptimeYear": "7.75%",
-    "time": 111,
-    "timeDay": 111,
-    "timeWeek": 111,
-    "timeMonth": 111,
-    "timeYear": 111,
+    "status": "up",
+    "uptime": "90.99%",
+    "uptimeDay": "90.99%",
+    "uptimeWeek": "90.99%",
+    "uptimeMonth": "90.99%",
+    "uptimeYear": "90.99%",
+    "time": 289,
+    "timeDay": 289,
+    "timeWeek": 289,
+    "timeMonth": 289,
+    "timeYear": 289,
     "dailyMinutesDown": {
-      "2026-03-12": 0
+      "2026-03-12": 22
     }
   },
   {
     "name": "Heelr API Health",
-    "url": "https://heelr.app/api/health",
-    "icon": "https://icons.duckduckgo.com/ip3/heelr.app.ico",
+    "url": "https://app.heelr.app/api/health",
+    "icon": "https://icons.duckduckgo.com/ip3/app.heelr.app.ico",
     "slug": "heelr-api-health",
-    "status": "down",
-    "uptime": "0.00%",
-    "uptimeDay": "0.00%",
-    "uptimeWeek": "0.00%",
-    "uptimeMonth": "0.00%",
-    "uptimeYear": "0.00%",
-    "time": 8,
-    "timeDay": 8,
-    "timeWeek": 8,
-    "timeMonth": 8,
-    "timeYear": 8,
+    "status": "up",
+    "uptime": "90.99%",
+    "uptimeDay": "90.99%",
+    "uptimeWeek": "90.99%",
+    "uptimeMonth": "90.99%",
+    "uptimeYear": "90.99%",
+    "time": 197,
+    "timeDay": 197,
+    "timeWeek": 197,
+    "timeMonth": 197,
+    "timeYear": 197,
     "dailyMinutesDown": {
-      "2026-03-12": 0
+      "2026-03-12": 22
     }
   },
   {
@@ -44,17 +44,19 @@
     "url": "https://docs.heelr.app",
     "icon": "https://icons.duckduckgo.com/ip3/docs.heelr.app.ico",
     "slug": "heelr-docs",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 144,
-    "timeDay": 144,
-    "timeWeek": 144,
-    "timeMonth": 144,
-    "timeYear": 144,
-    "dailyMinutesDown": {}
+    "status": "up",
+    "uptime": "90.99%",
+    "uptimeDay": "90.99%",
+    "uptimeWeek": "90.99%",
+    "uptimeMonth": "90.99%",
+    "uptimeYear": "90.99%",
+    "time": 231,
+    "timeDay": 231,
+    "timeWeek": 231,
+    "timeMonth": 231,
+    "timeYear": 231,
+    "dailyMinutesDown": {
+      "2026-03-12": 22
+    }
   }
 ]
