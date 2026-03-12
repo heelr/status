@@ -3,9 +3,9 @@ repo: status
 
 sites:
   - name: Heelr App
-    url: https://heelr.app
+    url: https://app.heelr.app
   - name: Heelr API Health
-    url: https://heelr.app/api/health
+    url: https://app.heelr.app/api/health
     expectedResponseTime: 2000
   - name: Heelr Docs
     url: https://docs.heelr.app
@@ -19,4 +19,4 @@ status-website:
     - title: Status
       href: /
     - title: Heelr
-      href: https://heelr.app
+      href: https://app.heelr.app
